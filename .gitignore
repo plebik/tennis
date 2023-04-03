@@ -1,5 +1,6 @@
 venv
-data
 .idea
 models
+data/mixed.csv
+data/result.csv
 test.py
